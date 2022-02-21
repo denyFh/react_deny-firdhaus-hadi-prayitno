@@ -1,6 +1,17 @@
 # Version Control and Branch Management (Git)
 **Resume Materi**
 
+- [Version Control and Branch Management (Git)](#version-control-and-branch-management-git)
+  - [1.	Introduction to Git and Github](#1introduction-to-git-and-github)
+    - [Version Control System (VCS)](#version-control-system-vcs)
+    - [More About Git and Github](#more-about-git-and-github)
+  - [2.	Learning Git commands and starting in Github](#2learning-git-commands-and-starting-in-github)
+    - [Membuat repository di github :](#membuat-repository-di-github-)
+    - [More about Github utils](#more-about-github-utils)
+    - [Staging area :](#staging-area-)
+    - [More about git commands](#more-about-git-commands)
+  - [3.	Workflow Collaboration](#3workflow-collaboration)
+
 ## 1.	Introduction to Git and Github
 Versioning : melakukan sebuah pengaturan versi atau pelacakan perubahan dari setiap code program. *Untuk apa melakukan versioning?* digunakan untuk mentracking terkait permasalahan baik itu pengubahan objek kode atau seseorang yang melakukan perubahan. Sehingga penting saat ini untuk menggunakan VCS (Versioning Control System) seperti Github. Tools yang bisa dipakai VCS, SCM, dan RCS. 
 
