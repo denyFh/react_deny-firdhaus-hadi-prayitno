@@ -53,7 +53,7 @@ Pada task ini, saya ditantang untuk membuat 3 halaman web sederhana sesuai denga
 Berikut merupakan link repo 3 halaman file tersebut:
 [Repo Tugas Praktikum HTML Deny](https://github.com/denyFh/tugas-react/tree/master/Section%205%20HTML)
 
-Berikut merupakan screenshot dari tampilan workspace figma desain web yang sudah saya buat:
+Berikut merupakan screenshot dari tampilan web yang sudah saya buat:
 ![index.html](./screenshots/preview-index.png)
 ![form.html](./screenshots/preview-form.png)
 ![welcome.html](./screenshots/preview-welcome.png)
