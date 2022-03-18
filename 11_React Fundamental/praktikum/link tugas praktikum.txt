@@ -1,2 +1,2 @@
 Repo Tugas Praktikum React Fundamental Deny
-https://github.com/denyFh/tugas-react/tree/master/Section%2011%20React%20Fundamental/tugas-react-2
+https://github.com/denyFh/tugas-react-fundament-alta
