@@ -44,7 +44,7 @@ Handling event merupakan suatu metode yang digunakan untuk menangani sebuah even
 Pada task ini, saya ditantang untuk membuat proyek dengan library react menerapkan event handling.
 
 Berikut merupakan link repo untuk tugas tersebut:
-[Repo Tugas Praktikum Event Handling Deny](https://github.com/denyFh/tugas-event-handling-alta)
+[Repo Tugas Praktikum Event Handling Deny](https://github.com/denyFh/tugas-event-handle-class-alta)
 
 Berikut merupakan screenshot dari hasil tampilan website:
 ![Form Handling](./screenshots/formhandle.png)

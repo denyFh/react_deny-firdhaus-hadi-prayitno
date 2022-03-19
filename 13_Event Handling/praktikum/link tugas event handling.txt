@@ -1,1 +1,1 @@
-https://github.com/denyFh/tugas-event-handling-alta
+https://github.com/denyFh/tugas-event-handle-class-alta
