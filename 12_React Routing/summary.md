@@ -38,7 +38,8 @@ Hooks pada react router terdapat 4 fungsi diantaranya:
 Pada task ini, saya ditantang untuk menambahkan react route kedalam todoapps yang sudah dibuat dengan react pada tugas sebelumnya dan memberikan hasil yang sesuai dengan contoh yang diberikan.
 
 Berikut merupakan link repo untuk tugas tersebut:
-[Repo Tugas Praktikum React Router Deny](https://github.com/denyFh/tugas-react-route-alta)
+[Repo Tugas Praktikum React Router v5 Deny](https://github.com/denyFh/tugas-react-route-alta)
+[Repo Tugas Praktikum React Router v6 Deny](https://github.com/denyFh/react-route-6)
 
 Berikut merupakan screenshot dari hasil tampilan website:
 ![reactRouterUsage](./screenshots/react-router.png)

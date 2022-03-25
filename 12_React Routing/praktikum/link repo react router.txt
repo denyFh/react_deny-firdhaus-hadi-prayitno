@@ -1,2 +1,5 @@
-Link repo react router:
+Link repo react router dengan v5:
 https://github.com/denyFh/tugas-react-route-alta
+
+Link repo react router dengan v6:
+https://github.com/denyFh/react-route-6
