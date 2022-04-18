@@ -1,0 +1,121 @@
+{
+    "data": {
+        "keterangan_aggregate": {
+            "nodes": [{
+                    "ketAnggota": {
+                        "nama": "Budi",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "id_anggota": 1,
+                    "nilai": 85,
+                    "pelajaran": "Sistem informasi",
+                    "status": true
+                },
+                {
+                    "ketAnggota": {
+                        "nama": "Sita",
+                        "id": 2
+                    },
+                    "id": 3,
+                    "id_anggota": 2,
+                    "nilai": 90,
+                    "pelajaran": "Sistem informasi",
+                    "status": true
+                },
+                {
+                    "ketAnggota": {
+                        "nama": "Angga",
+                        "id": 3
+                    },
+                    "id": 5,
+                    "id_anggota": 3,
+                    "nilai": 90,
+                    "pelajaran": "Sistem informasi",
+                    "status": true
+                },
+                {
+                    "ketAnggota": {
+                        "nama": "Budi",
+                        "id": 1
+                    },
+                    "id": 2,
+                    "id_anggota": 1,
+                    "nilai": 65,
+                    "pelajaran": "React",
+                    "status": true
+                },
+                {
+                    "ketAnggota": {
+                        "nama": "Sita",
+                        "id": 2
+                    },
+                    "id": 4,
+                    "id_anggota": 2,
+                    "nilai": 50,
+                    "pelajaran": "React",
+                    "status": true
+                },
+                {
+                    "ketAnggota": {
+                        "nama": "Angga",
+                        "id": 3
+                    },
+                    "id": 6,
+                    "id_anggota": 3,
+                    "nilai": 55,
+                    "pelajaran": "React",
+                    "status": true
+                }
+            ]
+        }
+    },
+
+    "data": {
+        "insert_keterangan": {
+            "affected_rows": 1,
+            "returning": [{
+                "id": 5,
+                "id_anggota": 3,
+                "nilai": 90,
+                "pelajaran": "Sistem Informasi",
+                "status": true
+            }]
+        }
+    },
+
+    "data": {
+        "insert_keterangan": {
+            "affected_rows": 1,
+            "returning": [{
+                "id": 6,
+                "id_anggota": 3,
+                "nilai": 55,
+                "pelajaran": "React",
+                "status": false
+            }]
+        }
+    },
+
+    "data": {
+        "update_keterangan": {
+            "affected_rows": 3,
+            "returning": [{
+                    "status": true,
+                    "id": 2,
+                    "id_anggota": 1
+                },
+                {
+                    "status": true,
+                    "id": 4,
+                    "id_anggota": 2
+                },
+                {
+                    "status": true,
+                    "id": 6,
+                    "id_anggota": 3
+                }
+            ]
+        }
+    }
+}

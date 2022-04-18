@@ -8,7 +8,7 @@ Dalam materi ini, mempelajari:
     - [2. Hasura, Heroku, Apollo](#2-hasura-heroku-apollo)
     - [3. Command for GraphQL](#3-command-for-graphql)
   - [Task](#task)
-    - [Membuat database dan melakukan mutation](#membuat-database-dan-melakukan-mutation)
+    - [Melakukan mutation data dengan Apollo client](#melakukan-mutation-data-dengan-apollo-client)
 
 ### 1. What is GraphQL?
 GraphQL merupakan suatu query language untuk API, dan merupakan sebuah server-side runtime untuk mengeksekusi suatu query dengan menggunakan tipe sistem yang kita deifiniskan untuk data kita. GraphQL mengurangi jumlah data yang diperlukan untuk ditransfer melalui suatu network / jaringan. Dengan GraphQL kita bisa menggunakan satu endpoint untuk menghandle request yang dibutuhkan dalam aplikasi. Terdapat 3 fitur utama pada GraphQL client diantaranya:
@@ -29,16 +29,13 @@ Dalam graphql terdapat beberapa cara pemanggilan data yang bisa digunakan dianta
 - untuk melakukan subscription kita perlu untuk menginstall library add-ons yakni @apollo/client subscriptions-transport-ws, kemudian melakuakn setting tambahan dalam file apollo client kita untuk menambahkan websocket link dan membuat suatu function split yang menggabungkan penggunaan antara websocket link dan http link sesuai dengan tipe kebutuhan. Barulah kita bisa menggunakan subscription pada query graphql pada apollo.
 
 ## Task
-### Membuat database dan melakukan mutation
-Pada task ini, saya ditantang untuk membuat suatu database beserta datanya sesuai dengan instruksi yang diberikan kan melakukan query mutation untuk mendapatkan hasil yang diinginkan.
+### Melakukan mutation data dengan Apollo client
+Pada task ini, saya ditantang untuk melakukan mutation data dari todolist yang sudah dibuat sesuai dengan instruksi melalui Apollo client yang tersambung dengan hasura saya.
 
 Berikut merupakan link untuk tugas tersebut:
-[Link hasilquery.json Praktikum GraphQL Hasura Deny](https://github.com/denyFh/tugas-graphql-apollo-alta/blob/master/hasilquery.json)
-[Link hasuraquery.gql Praktikum GraphQL Hasura Deny](https://github.com/denyFh/tugas-graphql-apollo-alta/blob/master/hasuracmd.graphql)
+[Link Tugas Praktikum GraphQL Mutation Deny](https://github.com/denyFh/tugas-graphql-mutation-alta/)
 
 Berikut merupakan screenshot dari hasil tampilan website:
-![find-query](./screenshots/true-status-query.png)
-![insert-query](./screenshots/insert-query.png)
-![insert-query-result](./screenshots/insert-query-results.png)
-![update-query](./screenshots/update-query.png)
-
+![functions](./screenshots/functions.png)
+![mutations](./screenshots/mutations.png)
+![result](./screenshots/result.png)

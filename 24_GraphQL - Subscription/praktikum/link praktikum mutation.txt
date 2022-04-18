@@ -1,0 +1,1 @@
+[Link Tugas Praktikum GraphQL Mutation Deny](https://github.com/denyFh/tugas-graphql-mutation-alta/)
