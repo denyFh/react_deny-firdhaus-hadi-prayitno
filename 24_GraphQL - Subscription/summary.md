@@ -1,14 +1,14 @@
-# GraphQL - Basic
+# GraphQL - Subscription
 
 ## Resume Materi
 Dalam materi ini, mempelajari:
-- [GraphQL - Basic](#graphql---basic)
+- [GraphQL - Subscription](#graphql---subscription)
   - [Resume Materi](#resume-materi)
     - [1. What is GraphQL?](#1-what-is-graphql)
     - [2. Hasura, Heroku, Apollo](#2-hasura-heroku-apollo)
     - [3. Command for GraphQL](#3-command-for-graphql)
   - [Task](#task)
-    - [Melakukan mutation data dengan Apollo client](#melakukan-mutation-data-dengan-apollo-client)
+    - [Melakukan subscription data dengan Apollo client](#melakukan-subscription-data-dengan-apollo-client)
 
 ### 1. What is GraphQL?
 GraphQL merupakan suatu query language untuk API, dan merupakan sebuah server-side runtime untuk mengeksekusi suatu query dengan menggunakan tipe sistem yang kita deifiniskan untuk data kita. GraphQL mengurangi jumlah data yang diperlukan untuk ditransfer melalui suatu network / jaringan. Dengan GraphQL kita bisa menggunakan satu endpoint untuk menghandle request yang dibutuhkan dalam aplikasi. Terdapat 3 fitur utama pada GraphQL client diantaranya:
@@ -29,13 +29,13 @@ Dalam graphql terdapat beberapa cara pemanggilan data yang bisa digunakan dianta
 - untuk melakukan subscription kita perlu untuk menginstall library add-ons yakni @apollo/client subscriptions-transport-ws, kemudian melakuakn setting tambahan dalam file apollo client kita untuk menambahkan websocket link dan membuat suatu function split yang menggabungkan penggunaan antara websocket link dan http link sesuai dengan tipe kebutuhan. Barulah kita bisa menggunakan subscription pada query graphql pada apollo.
 
 ## Task
-### Melakukan mutation data dengan Apollo client
-Pada task ini, saya ditantang untuk melakukan mutation data dari todolist yang sudah dibuat sesuai dengan instruksi melalui Apollo client yang tersambung dengan hasura saya.
+### Melakukan subscription data dengan Apollo client
+Pada task ini, saya ditantang untuk melakukan subscription data dari todolist yang sudah dibuat sesuai dengan instruksi melalui Apollo client yang tersambung dengan hasura saya.
 
 Berikut merupakan link untuk tugas tersebut:
-[Link Tugas Praktikum GraphQL Mutation Deny](https://github.com/denyFh/tugas-graphql-mutation-alta/)
+[Link Tugas Praktikum GraphQL Subscription Deny](https://github.com/denyFh/tugas-graphql-subscription-alta)
 
 Berikut merupakan screenshot dari hasil tampilan website:
-![functions](./screenshots/functions.png)
-![mutations](./screenshots/mutations.png)
-![result](./screenshots/result.png)
+![functions](./screenshots/apollo-setup.png)
+![mutations](./screenshots/query.png)
+![result](./screenshots/hooks.png)

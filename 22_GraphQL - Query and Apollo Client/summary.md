@@ -1,8 +1,8 @@
-# GraphQL - Basic
+# GraphQL - Query and Apollo Client
 
 ## Resume Materi
 Dalam materi ini, mempelajari:
-- [GraphQL - Basic](#graphql---basic)
+- [GraphQL - Query and Apollo Client](#graphql---query-and-apollo-client)
   - [Resume Materi](#resume-materi)
     - [1. What is GraphQL?](#1-what-is-graphql)
     - [2. Hasura, Heroku, Apollo](#2-hasura-heroku-apollo)

@@ -1,0 +1,1 @@
+[Link Tugas Praktikum GraphQL Subscription Deny](https://github.com/denyFh/tugas-graphql-subscription-alta)
