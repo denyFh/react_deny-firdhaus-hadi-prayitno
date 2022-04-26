@@ -1,0 +1,2 @@
+https://github.com/denyFh/tugas-weekly-2-alta
+link deploy web: https://deny-weekly2.netlify.app/

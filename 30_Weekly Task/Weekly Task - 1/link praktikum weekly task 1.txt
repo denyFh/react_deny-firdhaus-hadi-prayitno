@@ -1,1 +1,2 @@
 https://github.com/denyFh/weeklytask1
+link deploy web: https://deny-weekly1.netlify.app/
